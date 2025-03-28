@@ -1,5 +1,5 @@
 {
-    "name": "hyperf/elasticsearch",
+    "name": "sinhang/elasticsearch",
     "description": "Elasticsearch client for hyperf",
     "license": "MIT",
     "type": "library",
